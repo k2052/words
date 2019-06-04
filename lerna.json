@@ -1,0 +1,7 @@
+{
+  "packages": [
+    "articles/*",
+    "books/*"
+  ],
+  "version": "independent"
+}

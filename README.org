@@ -1,0 +1,25 @@
+* All the words!
+
+Everything I have written that is freely available lives in this monorepo. Books are in /books and articles/blog posts are in /articles
+
+** Usage
+
+** Publishing
+
+The articles, books etc are all on npm which means they published using =npm publish=. They are scoped to =@k2052-words= e.g =@k2052-words/unicorns-are-awesome=. You can publish an individual article (if you are me) by doing:
+
+#+begin_src sh
+$ cd articles/unicorns-are-awesome && npm publish 
+#+end_src
+
+You can publish all articles, books etc by using lerna:
+
+#+begin_src 
+$ npm run publish
+#+end_src
+
+** License 
+
+I use a mixed set of licenses but most articles are probably going to be ISC/MIT. Definitely check the license of the work if you want to use it though, if you cant find a license in the folder then please ask before re-using.
+
+ 
