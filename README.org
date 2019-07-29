@@ -1,6 +1,6 @@
 * All the words!
 
-Everything I have written that is freely available lives in this monorepo. Books are in /books and articles/blog posts are in /articles
+Everything I have written that are freely available lives in this monorepo. Books are in /books and articles/blog posts are in /articles
 
 ** Usage
 
@@ -22,4 +22,3 @@ $ npm run publish
 
 I use a mixed set of licenses but most articles are probably going to be ISC/MIT. Definitely check the license of the work if you want to use it though, if you cant find a license in the folder then please ask before re-using.
 
- 
