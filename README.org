@@ -1,6 +1,6 @@
 * All the words!
 
-Everything I have written that are freely available lives in this monorepo. Books are in /books and articles/blog posts are in /articles
+Everything I have written that is freely available lives in this monorepo. Books are in /books and articles/blog posts are in /articles
 
 ** Usage
 
