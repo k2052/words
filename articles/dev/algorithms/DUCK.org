@@ -1,0 +1,12 @@
+** The Layout
+
+
+- What is it
+- What it is used for
+- The data structures
+  - the data it operates on
+  - the data it uses for state
+  - the data it returns
+- The operations
+- Implementation
+- Demo
