@@ -1,0 +1,25 @@
+* An Interview Checklist
+
+** Early Pre
+
+- [ ] Wash Your allbirds! Don't look like a slob!
+- [ ] Have a panic attack
+
+** Before the Onsite
+
+- [ ] excuse yourself to the bathroom for frequent crying breaks
+- [ ] before the whiteboard practice your algorithm-os. To do an algortihmo press your tongue to the roof of your moth and say "reverse red black tree" three times fast, repeat until anxiety at adequate levels
+
+** During The Whiteboard
+
+- [ ] if you have interviewed for a rockstar role, remember to enter rapping. Especially if a React interview, you will want to hook them.
+- [ ] include at least 2-3 ums before every semi-colon so interviewers know you will pause to think while writing actual code. don't look like too much of a rockstart!
+
+** The Essentials
+
+- [ ] Master your window manager commands
+- [ ] Master your editor commands and basic workflow
+- [ ] Do a practice run of the interview, build what you think you might build. Fix any problems in environment.
+- [ ] Master the datastructures
+- [ ] remap your capslock and other keys
+- [ ] master your editor http://pragmaticemacs.com/ vim: http://vimcasts.org/
